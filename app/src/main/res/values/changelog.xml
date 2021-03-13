@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Leave empty if you don't want to show changelog date -->
+    <string name="changelog_date">2019/5/25</string>
+
+    <!-- Changelog support html formatting
+    * <b> for Bold
+    * <i> for Italic
+    * <u> for Underline -->
+    <string-array name="changelog">
+        <item>修复蒙版等问题，更新几个图标。</item>
+        <!--<item>More easy to customize dashboard</item>-->
+        <!--<item>Improved premium request feature</item>-->
+        <!--<item><![CDATA[-->
+        <!--This is an example changelog with html formatting-->
+        <!--<b>Bold</b>, <i>Italic</i>, and <u>Underline</u>-->
+        <!--]]></item>-->
+        <!--<item>Another changelog</item>-->
+        <!--<item><![CDATA[-->
+        <!--<b>Another</b> one-->
+        <!--]]></item>-->
+    </string-array>
+
+</resources>

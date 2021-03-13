@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+
+
+    <category title="第三方" />
+    <item drawable="aplayer" />
+    <item drawable="bilibili" />
+    <item drawable="forest" />
+    <item drawable="kuan" />
+    <item drawable="polly" />
+    <item drawable="qq" />
+    <item drawable="taobao" />
+    <item drawable="via" />
+    <item drawable="wangyi_youxiang" />
+    <item drawable="wangyi_yun_yinyue" />
+    <item drawable="weibo" />
+    <item drawable="weixin" />
+    <item drawable="wps_office" />
+    <item drawable="zhihu" />
+    <item drawable="xuexi_qiangguo" />
+    <item drawable="google_play_store" />
+
+    <item drawable="es_wenjian_liulanqi" />
+    <item drawable="kuake_liulanqi" />
+    <item drawable="xunfei_yousheng" />
+    <item drawable="zhanku" />
+    <item drawable="chunchun_xiezuo" />
+
+    <item drawable="twitter" />
+    <item drawable="ssr" />
+    <item drawable="telegram" />
+
+    <item drawable="xiao_mowang_tubiaobao" />
+
+    <category title="系统" />
+
+    <item drawable="dianhua" />
+    <item drawable="xiangce" />
+    <item drawable="xiangji" />
+    <item drawable="xinxi" />
+
+    <item drawable="shezhi" />
+
+
+</resources>
